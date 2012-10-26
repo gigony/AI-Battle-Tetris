@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{8377d132-e7a5-4abd-996a-3fd913c26d6f}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{35bac31a-0be7-4b08-8ca6-3c42782e3d19}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Manifest Include="AITetris.manifest">
+      <Filter>Resource Files</Filter>
+    </Manifest>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="AITetris.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Common\directx.ico">
+      <Filter>Resource Files</Filter>
+    </None>
+    <None Include="AITetris.fx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="resource.h">
+      <Filter>Resource Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\dxstdafx.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\dxut.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\dxutenum.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\dxutgui.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\dxutmesh.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\dxutmisc.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="Common\dxutsettingsdlg.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="BlockMgr.h" />
+    <ClInclude Include="Board.h" />
+    <ClInclude Include="definition.h" />
+    <ClInclude Include="DSClass.h" />
+    <ClInclude Include="EffectCollection.h" />
+    <ClInclude Include="Game.h" />
+    <ClInclude Include="GameSprite.h" />
+    <ClInclude Include="GameSpriteSpr.h" />
+    <ClInclude Include="GameSpriteSurface.h" />
+    <ClInclude Include="MessageStruct.h" />
+    <ClInclude Include="Player.h" />
+    <ClInclude Include="PSFrameWork.h" />
+    <ClInclude Include="PSInstance.h" />
+    <ClInclude Include="PSTimer.h" />
+    <ClInclude Include="SpriteCollection.h" />
+    <ClInclude Include="State.h" />
+    <ClInclude Include="State_CustomSetting.h" />
+    <ClInclude Include="State_Main.h" />
+    <ClInclude Include="State_Title.h" />
+    <ClInclude Include="StateController.h" />
+    <ClInclude Include="FrameSkip.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Common\dxstdafx.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\dxut.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\dxutenum.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\dxutgui.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\dxutmesh.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\dxutmisc.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="Common\dxutsettingsdlg.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="AITetris.cpp" />
+    <ClCompile Include="BlockMgr.cpp" />
+    <ClCompile Include="Board.cpp" />
+    <ClCompile Include="DSClass.cpp" />
+    <ClCompile Include="EffectCollection.cpp" />
+    <ClCompile Include="Game.cpp" />
+    <ClCompile Include="GameSprite.cpp" />
+    <ClCompile Include="GameSpriteSpr.cpp" />
+    <ClCompile Include="GameSpriteSurface.cpp" />
+    <ClCompile Include="Player.cpp" />
+    <ClCompile Include="PSFrameWork.cpp" />
+    <ClCompile Include="PSInstance.cpp" />
+    <ClCompile Include="PSTimer.cpp" />
+    <ClCompile Include="SpriteCollection.cpp" />
+    <ClCompile Include="State.cpp" />
+    <ClCompile Include="State_CustomSetting.cpp" />
+    <ClCompile Include="State_Main.cpp" />
+    <ClCompile Include="State_Title.cpp" />
+    <ClCompile Include="StateController.cpp" />
+  </ItemGroup>
+</Project>

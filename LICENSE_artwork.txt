@@ -1,0 +1,41 @@
+Audio files in /AITetris-Server/music/ and some image files in /AITetris-Server/data/ are copyrighted by NHN Corp. 
+
+AUDIO
+---------
+    /AITetris-Server/music/*.ogg
+        From 'Hangame Tetris':
+            http://tetris.hangame.com/
+            copyrighted by NHN Corp.
+
+IMAGE
+----------
+    /AITetris-Server/data/hold_01num.png
+    /AITetris-Server/data/Main-Block.png edited by Gigon Bae
+    /AITetris-Server/data/mino_main.png    
+    /AITetris-Server/data/mino_next_16.png
+    /AITetris-Server/data/TET_number_time.png
+    /AITetris-Server/data/TET_numberlevel.png
+    /AITetris-Server/data/TET_numberline.png
+    /AITetris-Server/data/TET_numberlevel.png
+    /AITetris-Server/data/Main-BackGround.png edited by Gigon Bae
+    /AITetris-Server/data/Main-BackGround_2.png edited by Gigon Bae
+        From 'Hangame Tetris':
+            http://tetris.hangame.com/
+            copyrighted by NHN Corp.
+
+    /AITetris-Server/data/Main-Effect.png edited by Gigon Bae    
+    /AITetris-Server/data/title_YeonHee Lee.png edited by Gigon Bae
+    /AITetris-Server/data/title_YunaKim.png edited by Gigon Bae
+        From the internet (I'm not sure).
+
+    /AITetris-Server/data/title.png edited by Gigon Bae
+        From 'KAIST Photo Contest'
+        
+    /AITetris-Server/data/Title-Name.png edited by Gigon Bae
+    /AITetris-Server/data/Title-Selected.png edited by Gigon Bae
+    /AITetris-Server/data/Title-unselected.png edited by Gigon Bae
+    /AITetris-Server/data/WinLose.png edited by Gigon Bae
+        From my own work.
+
+**Please do not use these files in your project, for commercial use.**
+
