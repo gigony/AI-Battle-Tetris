@@ -66,8 +66,8 @@ made available under the BSD-like license.
 - libvorbis, a BSD-style license software implementation of the Vorbis specification by the [Xiph.Org Foundation](http://www.xiph.org/) 
 - libvorbisfile, a BSD-style license convenience library built on Vorbis designed to simplify common uses.
 - libogg, a BSD-style license software implementation of the Ogg file structure by the [Xiph.Org Foundation](http://www.xiph.org/)
-- DXUT Framework, a framework based on DirectX. This is included in DirectX SDK.  */AITetris-Server/Common/*
-- Audio files in */AITetris-Server/music/* and some image files in */AITetris-Server/data/* are copyrighted by NHN Corp. [Click here to see in detail](https://github.com/gigony/AI-Battle-Tetris/blob/master/LICENSE_artwork.txt). 
+- DXUT Framework, a framework based on DirectX. This is included in DirectX SDK.  `/AITetris-Server/Common/`
+- Audio files in `/AITetris-Server/music/` and some image files in `/AITetris-Server/data/` are copyrighted by NHN Corp. [Click here to see in detail](https://github.com/gigony/AI-Battle-Tetris/blob/master/LICENSE_artwork.txt). 
   **Please do not use these files in your project, for commercial use.**
 
 
