@@ -12,8 +12,8 @@ CS202 provides students with experiences of solving problems with algorithms.
 Students are given problems that are likely to be set in ACM-ICPC. 
 A.I. programming competition is held as the final project in the course.
 
-One of my hopes, while working as a TA, was serving an interesting project for the final project.
-I like Tetris and I wanted students develop good A.I. agents for Tetris. I expected that student will be satisfied with my project if I provide a good A.I. Tetris framework having visual interest.
+One of my aspirations, while working as a TA, was serving an interesting project for the final term project.
+I like Tetris and I wanted students develop good A.I. agents for this game. I expected that student will be satisfied with my project if I provide a good A.I. Tetris framework having visual interest.
 For the reason, I established the whole tetris network game server and the client skeleton by using DXUT Framework based on DirectX.
 
 This project was used for CS202 courses in Fall 2009 and 2011 Fall. It was also used for an exhibition in [OPEN KAIST](http://so-kaist.ac.kr/open/) and for a teaching material at [KAIST GIFTED](http://gifted.kaist.ac.kr/main.do) \(Global Institute For Talented EDucation\) in 2010 Fall.
