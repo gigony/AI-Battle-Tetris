@@ -19,7 +19,7 @@ Old version
 
 ### 2010
 
-  [Server and Client - Open KAIST 2010]http://goo.gl/h2TZD)
+  [Server and Client - Open KAIST 2010](http://goo.gl/h2TZD)
 
   [Server and Client](http://goo.gl/tLbWN)
 
