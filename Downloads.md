@@ -27,4 +27,4 @@ Old version
 
   [Server and Client](https://dl.dropbox.com/u/10953749/GithubDownloads/GameServerClientFinal-PS2009.zip)
 
-  [Students A.I](https://dl.dropbox.com/u/10953749/GithubDownloads/CS202-PS2009%28Student%20AIs%29.zip)
+  [Students A.I.](https://dl.dropbox.com/u/10953749/GithubDownloads/CS202-PS2009%28Student%20AIs%29.zip)
