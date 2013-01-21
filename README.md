@@ -29,11 +29,11 @@ Click to view.
 
 Download
 -------------
-### [Click here to download latest version\(2011 version\)](https://github.com/downloads/gigony/AI-Battle-Tetris/GAMEServerClientFinal-PS2011.zip)
+### [Click here to download latest version\(2011 version\)](https://dl.dropbox.com/u/10953749/GithubDownloads/GAMEServerClientFinal-PS2011.zip)
 
 Other packages including AI agents developed by students in 2009 Fall CS202 course are in: 
 
-https://github.com/gigony/AI-Battle-Tetris/downloads
+https://github.com/gigony/AI-Battle-Tetris/blob/master/Downloads.md
 
 Usage & Development
 -------------------
