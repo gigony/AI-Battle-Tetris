@@ -6,25 +6,25 @@ Latest version
 
 ### 2011
 
-  [Document](https://dl.dropbox.com/u/10953749/GithubDownloads/Document-2011.pdf)
+  [Document](http://goo.gl/a36br)
 
-  [Server and Client](https://dl.dropbox.com/u/10953749/GithubDownloads/GAMEServerClientFinal-PS2011.zip)
+  [Server and Client](http://goo.gl/hvNAq)
 
-  [C Runtime](https://dl.dropbox.com/u/10953749/GithubDownloads/CRunTime_100_PS2011.zip)
+  [C Runtime](http://goo.gl/0iofx)
 
 
 Old version
 -----------------
-[C Runtime](https://dl.dropbox.com/u/10953749/GithubDownloads/CRunTime_90_PS2009-2010.zip)
+[C Runtime](http://goo.gl/g7UML)
 
 ### 2010
 
-  [Server and Client - Open KAIST 2010](https://dl.dropbox.com/u/10953749/GithubDownloads/GameServerClientFinal-Open%20KAIST%202010.zip)
+  [Server and Client - Open KAIST 2010]http://goo.gl/h2TZD)
 
-  [Server and Client](https://dl.dropbox.com/u/10953749/GithubDownloads/GameServerClientFinal-2010.zip)
+  [Server and Client](http://goo.gl/tLbWN)
 
 ### 2009
 
-  [Server and Client](https://dl.dropbox.com/u/10953749/GithubDownloads/GameServerClientFinal-PS2009.zip)
+  [Server and Client](http://goo.gl/sRBwx)
 
-  [Students A.I.](https://dl.dropbox.com/u/10953749/GithubDownloads/CS202-PS2009%28Student%20AIs%29.zip)
+  [Students A.I.](http://goo.gl/uUQg8)
